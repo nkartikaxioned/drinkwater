@@ -172,12 +172,12 @@ p { font-size: 18px; }
 
  .filled-container { 
   background-color: var(--waterColor); 
-  flex: 0;
+  flex: 1;
 }
 
  .empty-container { 
   background-color: var(--whiteColor); 
-  flex: 1;
+  height: 322px;
 }
 
 .glasses-list , .glass,.empty-container,.filled-container {
