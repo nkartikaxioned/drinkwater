@@ -148,8 +148,12 @@ span {
   font-size: 18px; 
 }
 
-.empty-container span:first-child { font-weight: 600; }
-.empty-container span:last-child { font-size: 15px; }
+.empty-container span:first-child { 
+  font-size: 20px;
+  font-weight: 600; 
+}
+
+.empty-container span:last-child { font-size: 14px; }
 
 .water-container { 
   min-width: 142px;
